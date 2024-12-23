@@ -23,8 +23,8 @@ public class ObjectPropertyEx {
 }
 
 /* 결과
-		Point
-		366712642
-		Point@15db9742
-		Point@15db9742  
+	Point
+	366712642
+	Point@15db9742
+	Point@15db9742  
 */
